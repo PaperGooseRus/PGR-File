@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/papergooserus/Documents/Projects/PGR File/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/PGR_File.dir/main.c.o -c \"/home/papergooserus/Documents/Projects/PGR File/main.c\"",
+  "file": "/home/papergooserus/Documents/Projects/PGR File/main.c",
+  "output": "CMakeFiles/PGR_File.dir/main.c.o"
+}
+]
