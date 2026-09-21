@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include "core_inc.h"
 
 int main() {
-    printf("Hello\n");
+    user_print();
 
     return 0;
 }

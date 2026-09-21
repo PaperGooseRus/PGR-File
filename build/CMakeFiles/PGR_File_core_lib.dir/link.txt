@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPGR_File_core_lib.a CMakeFiles/PGR_File_core_lib.dir/core/core_src.c.o
+/usr/bin/ranlib libPGR_File_core_lib.a
