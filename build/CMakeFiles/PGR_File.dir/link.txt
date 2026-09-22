@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/PGR_File.dir/main.c.o -o PGR_File  libPGR_File_core_lib.a 
